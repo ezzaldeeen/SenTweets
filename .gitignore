@@ -144,3 +144,4 @@ ui-tests/.pnp.*
 
 # data
 sample.csv
+/models/
